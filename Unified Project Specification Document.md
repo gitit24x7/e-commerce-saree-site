@@ -1,5 +1,3 @@
-Alright — here’s your **single, company-style PRD (Product Requirement Document)** for your ecommerce project, combining everything we discussed into one well-structured doc.
-
 ---
 
 # **Saaree Store Website – Product Requirement Document (PRD)**
