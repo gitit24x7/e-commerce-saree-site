@@ -1,4 +1,3 @@
----
 
 # **Saaree Store Website – Product Requirement Document (PRD)**
 
@@ -10,7 +9,7 @@
 
 ## **1. Project Overview**
 
-SwiftCart is a modern ecommerce platform tailored for the Indian market. It will enable customers to browse products, apply discounts, post reviews, and purchase items securely using UPI and card-based payment methods. The platform will be responsive, scalable, and integrated with a CMS (Strapi) for easy content management.
+This is a modern ecommerce platform tailored for the Indian market. It will enable customers to browse products, apply discounts, post reviews, and purchase items securely using UPI and card-based payment methods. The platform will be responsive, scalable, and integrated with a CMS (Strapi) for easy content management.
 
 **Goals:**
 
