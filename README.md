@@ -1,7 +1,7 @@
 # E-commerce-saree-site
 This is an end to end full stack website, which uses strapi for backend and for front end- react, tailwind, clerk.js and tailwind.
 
-# SwiftCart – Ecommerce Saree Store
+# Ecommerce Saree Store
 
 SwiftCart is a modern ecommerce platform designed for selling sarees in the Indian market.  
 It is built using **React (Vite) + TailwindCSS + TypeScript** on the frontend, **Strapi CMS** for the backend, and **Razorpay** for secure payments.
@@ -40,8 +40,8 @@ It includes:
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/swiftcart.git
-   cd swiftcart
+   git clone https://github.com/gitit24x7/e-commerce-saree-site.git
+   cd e-commerce-saree-site
 ## 🤝 Contributing
 Pull requests are welcome!
 For major changes, please open an issue first to discuss what you would like to change.
