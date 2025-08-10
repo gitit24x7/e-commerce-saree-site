@@ -2,7 +2,7 @@ Alright — here’s your **single, company-style PRD (Product Requirement Docum
 
 ---
 
-# **SwiftCart – Product Requirement Document (PRD)**
+# **Saaree Store Website – Product Requirement Document (PRD)**
 
 **Project Name:** SwiftCart – Modern Ecommerce Platform for India
 **Prepared By:** \[Your Name]
@@ -160,13 +160,3 @@ React (Frontend) → Clerk.js (Auth) → Strapi (Backend) → PostgreSQL (DB)
 * 90% of orders completed without payment issues.
 
 ---
-
-**This PRD is your single source of truth.**
-You can hand this to a team member and they’ll know exactly what to build without asking a million questions.
-
----
-
-If you want, I can now make the **exact Strapi backend setup guide** based on this PRD — so you’ll know exactly which collections, fields, and permissions to create before even touching the frontend.
-That will make your development flow like a real company sprint.
-
-Do you want me to create that next?
